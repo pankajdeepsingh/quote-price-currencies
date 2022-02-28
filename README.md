@@ -3,6 +3,7 @@
  
 * Use npm start to start our application. The application will start on port 3000.
 
+Some of the packages used in the project:
 
 * Used Formik for forms
 
